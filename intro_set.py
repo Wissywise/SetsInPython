@@ -1,0 +1,10 @@
+companies = {"Apple", "Microsoft", "Google", "Google"}
+
+
+companies.add("Amazon")
+
+
+companies.remove("Microsoft")
+
+
+print(companies)
