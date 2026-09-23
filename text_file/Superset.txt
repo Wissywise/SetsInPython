@@ -1,0 +1,9 @@
+fast_food_brands = frozenset({"McDonald's", "Burger King", "KFC", "Subway", "Wendy's"})
+
+fast_food_brands.add("Domino's")
+
+print(fast_food_brands)
+
+
+
+#Mathematics proficiency, Basic programming knowledge, Logical thinking, Familiarity with AI concepts, Problem-solving skills
