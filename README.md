@@ -1,3 +1,2 @@
-# re-factoreg
-Refactoring to make some codes more readable, easy to maintain and extendable
-#A new comment has been added to this file just to fulfil the "edit commit" stepts.
+# Set in Python
+In Python, a set is a built-in data type used to store an unordered collection of unique items.
